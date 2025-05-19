@@ -1,4 +1,4 @@
-Reduce time when running a lot of APIS calls.
+An few ways to reduce time when running a lot of APIS calls, using Parallelism and Asynchronous.
 
 References:
 
